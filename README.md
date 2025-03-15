@@ -1,5 +1,4 @@
 <h1 align="center">Introduction<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Passionné par programmation.</h3>
 
 ## 🚀 Langages et outils
 
