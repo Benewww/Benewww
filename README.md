@@ -31,6 +31,6 @@
 
 <a href = "https://discord.gg/XuGRzbcvFH"><img src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png" width="45"/></a>
 <a href = "https://www.youtube.com/@Benewww"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://benewww.store"><img src="https://img.icons8.com/?size=30&id=63807&format=png&color=000000"/></a>
+<a href = "https://benewww.store"><img src="https://img.icons8.com/?size=40&id=63807&format=png&color=000000"/></a>
 
 </p>
