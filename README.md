@@ -13,12 +13,6 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 <br/>
 
-## 📊 Mes statistiques Github
-
-  <br/>
-    <a href="https://github.com/Benewww/github-readme-stats"><img alt="Statistiques Github de Benewww" src="https://github-readme-stats.vercel.app/api?username=Benewww&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/Benewww/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benewww&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ff00&text_color=ffffff&bar_color=007bff" /></a>
-  <br/>
 
 ## Liens utiles
 <p align="left">
